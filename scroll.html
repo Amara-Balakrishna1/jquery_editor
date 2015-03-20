@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+
+    <script src="d3wet/d3api.js"></script>
+    <script src="d3wet/mevariables.js"></script>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.3/themes/smoothness/jquery-ui.css">
+    <link rel="stylesheet" href="d3wet/fonts/font-awesome/css/font-awesome.min.css" type="text/css"/>
+    <link rel="stylesheet" href="d3wet/bs.css">
+    <link rel="stylesheet" href="d3wet/me.css">
+
+    <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>-->
+
+    <script src="http://code.jquery.com/jquery-2.0.0.min.js"></script>
+    <script src="http://modernizr.com/downloads/modernizr-latest.js"></script>
+    <script src="https://code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+
+
+    <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <script src="d3wet/d3controller.js"></script>
+    <script src="d3wet/d3model.js"></script>
+    <script src="d3wet/styling.js"></script>
+    <script src="d3wet/search.js"></script>
+    <script src="d3wet/filter.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+
+
+    <!--<script src="jqueryui.js"></script>-->
+    <script src="d3wet/bs.js"></script>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.3/themes/smoothness/jquery-ui.css">
+
+
+    <!--for scroll bars-->
+    <!--<script type="text/javascript" src=" lionbars/jquery.lionbars.0.3.min.js"></script>-->
+    <!--<link rel="stylesheet" href="lionbars/lionbars.css">-->
+
+
+</head>
+<body>
+
+<div>
+<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+    Launch demo modal
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div id="popup-rule-editor"><div class="my-rule-editor"></div></div>
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <div   id="toolbar">
+                    <div class="row  toolbar">
+
+                        <img id="myImage1" title="Delete" onclick="delSel()" src="d3wet/images/delete16.png">
+                        <img id="myImage2" title="save" onclick="getData()" src="d3wet/images/download16.png">
+
+                        <div class="btn-group ">
+                            <button style="font-family:'lato' !important;font-weight: 500;" id="selValue" data-toggle="dropdown"
+                                    class="btn mybtn dropdown-toggle "><b>All</b><span class="caret"></span></button>
+                            <ul class="dropdown-menu" id="top4list">
+                                <li>Mapped Items</li>
+                                <li>Unmapped</li>
+                                <li>All</li>
+                            </ul>
+                        </div>
+                        <div class="btn-group ">
+                            <button id='infomodel' style="font-family:'lato' !important;font-weight: 500;" data-toggle="dropdown"
+                                    class="btn mybtn dropdown-toggle "><b>Name</b><span class="caret"></span></button>
+                            <ul class="dropdown-menu" id="toplist">
+                                <li>Name</li>
+                                <li>Description</li>
+                            </ul>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+            <div id="modalbody" class="modal-body" style="height: 500px;overflow-y: scroll">
+
+            </div>
+            <!--<div class="modal-footer">-->
+                <!--<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>-->
+                <!--<button type="button" class="btn btn-primary">Save changes</button>-->
+            <!--</div>-->
+        </div>
+    </div>
+</div>
+<script type="text/javascript"  src='d3wet/mescript.js'></script>
+
+
+
+</div>
+</body>
+</html>

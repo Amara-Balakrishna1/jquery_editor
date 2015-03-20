@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="94e3a24c-17db-4570-b095-911bb72ecc88" name="Default" comment="" />
+    <ignored path="d3.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/index.html" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1426658909779" ignored="false" />
+    <file path="$PROJECT_DIR$/../jqtree.html" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1417684347637" ignored="false" />
+    <file path="/jqtree.html" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1418022311686" ignored="false" />
+    <file path="$PROJECT_DIR$/../training.json" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1417684341659" ignored="false" />
+    <file path="/d3controller.js" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1425392909874" ignored="false" />
+    <file path="/data.json" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1418050138743" ignored="false" />
+    <file path="$PROJECT_DIR$/../kmeditor/editor/controller.js" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1419250774836" ignored="false" />
+    <file path="/controller.js" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1419250686616" ignored="false" />
+    <file path="$PROJECT_DIR$/../kmeditor/editor/index.html" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1417849838171" ignored="false" />
+    <file path="$PROJECT_DIR$/../kmeditor/jqtree.html" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1418996429106" ignored="false" />
+    <file path="/a.dummy" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1425038103988" ignored="false" />
+    <file path="$PROJECT_DIR$/../finaleditor/data.json" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1418050153122" ignored="false" />
+    <file path="$PROJECT_DIR$/../finaleditor/index.html" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1418049737151" ignored="false" />
+    <file path="$PROJECT_DIR$/../finaleditor/controller.js" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1418117042134" ignored="false" />
+    <file path="/d3model.js" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1425884814205" ignored="false" />
+    <file path="$PROJECT_DIR$/../dynamic-n-n/flowchart/flowchart_directive.js" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1418217941319" ignored="false" />
+    <file path="/training.html" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1418795659749" ignored="false" />
+    <file path="$PROJECT_DIR$/../kmeditor/d3js.html" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1418982870634" ignored="false" />
+    <file path="/search.js" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1422872581906" ignored="false" />
+    <file path="/styling.js" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1419068021500" ignored="false" />
+    <file path="$PROJECT_DIR$/../kmeditor/react.html" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1419924394502" ignored="false" />
+    <file path="$PROJECT_DIR$/../kmeditor/world.json" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1419924223499" ignored="false" />
+    <file path="$PROJECT_DIR$/../d3multi/index.html" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1421053684828" ignored="false" />
+    <file path="$PROJECT_DIR$/../d3multi/data.json" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1420809391211" ignored="false" />
+    <file path="$PROJECT_DIR$/../infro-master/infro-master/countries.html" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1421146376337" ignored="false" />
+    <file path="$PROJECT_DIR$/../infro-master/infro/index.html" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1421149329893" ignored="false" />
+    <file path="$PROJECT_DIR$/../infro-master/infro/choosen.css" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1421147078361" ignored="false" />
+    <file path="$PROJECT_DIR$/../infro-master/infro/infro.css" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1421147131402" ignored="false" />
+    <file path="$PROJECT_DIR$/../infro-master/mootools-1.4.5.js" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1421147437042" ignored="false" />
+    <file path="$PROJECT_DIR$/../infro-master/chosen.js" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1421147523522" ignored="false" />
+    <file path="$PROJECT_DIR$/../infro-master/infro.js" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1421147567989" ignored="false" />
+    <file path="$PROJECT_DIR$/../infro-master/aa.js" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1421147609893" ignored="false" />
+    <file path="$PROJECT_DIR$/../infro-master/d3v2.js" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1421149241014" ignored="false" />
+    <file path="/d3v2.js" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1421149130313" ignored="false" />
+    <file path="$PROJECT_DIR$/../kmeditor/editor/h.json" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1422518061336" ignored="false" />
+    <file path="$PROJECT_DIR$/../practise/test.json" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1422599898212" ignored="false" />
+    <file path="/test.json" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1422529776236" ignored="false" />
+    <file path="/filter.js" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1422870487176" ignored="false" />
+    <file path="$PROJECT_DIR$/../practise/histogram.html" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1423141418143" ignored="false" />
+    <file path="/bs.js" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1426241870247" ignored="false" />
+    <file path="/jqueryui.js" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1424429612219" ignored="false" />
+    <file path="/me.css" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1424858164228" ignored="false" />
+    <file path="/bs.css" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1426069133082" ignored="false" />
+    <file path="$PROJECT_DIR$/../BusinessScript/index.html" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1424504530894" ignored="false" />
+    <file path="$PROJECT_DIR$/../BusinessScript/script/bs.js" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1424506552401" ignored="false" />
+    <file path="$PROJECT_DIR$/../d3/d3controller.js" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1425392917391" ignored="false" />
+    <file path="$PROJECT_DIR$/../IPBBAGR/jqueri_scroll.html" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1425551371674" ignored="false" />
+    <file path="$PROJECT_DIR$/../jquery/scroll.html" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1426658891045" ignored="false" />
+    <file path="/scroll.html" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1426158289770" ignored="false" />
+    <file path="$PROJECT_DIR$/../jquery/popup.html" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1426576517607" ignored="false" />
+    <file path="/popup.html" changelist="94e3a24c-17db-4570-b095-911bb72ecc88" time="1426572005082" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="d3" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="36" selection-start="145" selection-end="145" vertical-scroll-proportion="0.29310346">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mevariables.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mevariables.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="0" selection-start="1868" selection-end="1868" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#164#0" expanded="false" />
+                <marker date="1426659054600" expanded="false" signature="601:655" placeholder="..." />
+                <marker date="1426659054600" expanded="false" signature="692:750" placeholder="..." />
+                <marker date="1426659054600" expanded="false" signature="802:828" placeholder="..." />
+                <marker date="1426659054600" expanded="false" signature="855:909" placeholder="..." />
+                <marker date="1426659054600" expanded="false" signature="999:1057" placeholder="..." />
+                <marker date="1426659054600" expanded="false" signature="1111:1137" placeholder="..." />
+                <marker date="1426659054600" expanded="false" signature="1168:1219" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/search.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="80" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="me.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/me.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="139" column="23" selection-start="2313" selection-end="2313" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jqueryui.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jqueryui.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8140" column="23" selection-start="334018" selection-end="334018" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1424673798378" expanded="false" signature="41309:41380" placeholder="..." />
+                <marker date="1424673798378" expanded="false" signature="41394:41418" placeholder="..." />
+                <marker date="1424673798378" expanded="false" signature="295226:295243" placeholder="..." />
+                <marker date="1424673798378" expanded="false" signature="314841:314857" placeholder="..." />
+                <marker date="1424673798378" expanded="true" signature="533323:533332" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="d3model.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/d3model.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="308" column="32" selection-start="11104" selection-end="11104" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filter.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/filter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="111" column="50" selection-start="3577" selection-end="3577" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bs.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="977" column="73" selection-start="42607" selection-end="42607" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1426242371111" expanded="false" signature="73255:73272" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bs.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bs.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="233" column="27" selection-start="4833" selection-end="4833" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="d3controller.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/d3controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="67" column="46" selection-start="1616" selection-end="1616" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/a.html" />
+        <option value="$PROJECT_DIR$/../kmeditor/training.html" />
+        <option value="$PROJECT_DIR$/trail.json" />
+        <option value="$PROJECT_DIR$/styling.js" />
+        <option value="$PROJECT_DIR$/search.js" />
+        <option value="$PROJECT_DIR$/jqueryui.js" />
+        <option value="$PROJECT_DIR$/filter.js" />
+        <option value="$PROJECT_DIR$/me.css" />
+        <option value="$PROJECT_DIR$/demo.html" />
+        <option value="$PROJECT_DIR$/data.json" />
+        <option value="$PROJECT_DIR$/d3controller.js" />
+        <option value="$PROJECT_DIR$/d3model.js" />
+        <option value="$PROJECT_DIR$/bs.css" />
+        <option value="$PROJECT_DIR$/bs.js" />
+        <option value="$PROJECT_DIR$/mevariables.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="d3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="d3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="d3wet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\svn\d3wet\images" />
+      <recent name="C:\xampp\htdocs\svn\d3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\svn\d3wet\images" />
+      <recent name="C:\xampp\htdocs\svn\d3\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Users\Balakrishna\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94e3a24c-17db-4570-b095-911bb72ecc88" name="Default" comment="" />
+      <created>1417613258457</created>
+      <updated>1417613258457</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19880864" sideWeight="0.6848382" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31516185" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/styling.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="27" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavascriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DOMEvents.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="16" selection-start="919" selection-end="919" vertical-scroll-proportion="0.33333334" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lionbars/jquery.lionbars.0.3.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="33" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jqueryui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8140" column="23" selection-start="334018" selection-end="334018" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1424673798378" expanded="false" signature="41309:41380" placeholder="..." />
+            <marker date="1424673798378" expanded="false" signature="41394:41418" placeholder="..." />
+            <marker date="1424673798378" expanded="false" signature="295226:295243" placeholder="..." />
+            <marker date="1424673798378" expanded="false" signature="314841:314857" placeholder="..." />
+            <marker date="1424673798378" expanded="true" signature="533323:533332" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="105" column="1" selection-start="13656" selection-end="13656" vertical-scroll-proportion="0.7829787" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trail.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="50" selection-start="3577" selection-end="3577" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="35" selection-start="150" selection-end="150" vertical-scroll-proportion="0.18317758">
+          <folding>
+            <element signature="e#27125#53419#0" expanded="false" />
+            <element signature="e#53475#55328#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/me.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="139" column="23" selection-start="2313" selection-end="2313" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="80" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d3model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="308" column="32" selection-start="11104" selection-end="11104" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="233" column="27" selection-start="4833" selection-end="4833" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d3controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="46" selection-start="1616" selection-end="1616" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="977" column="73" selection-start="42607" selection-end="42607" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1426242371111" expanded="false" signature="73255:73272" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mevariables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="0" selection-start="1868" selection-end="1868" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#164#0" expanded="false" />
+            <marker date="1426659054600" expanded="false" signature="601:655" placeholder="..." />
+            <marker date="1426659054600" expanded="false" signature="692:750" placeholder="..." />
+            <marker date="1426659054600" expanded="false" signature="802:828" placeholder="..." />
+            <marker date="1426659054600" expanded="false" signature="855:909" placeholder="..." />
+            <marker date="1426659054600" expanded="false" signature="999:1057" placeholder="..." />
+            <marker date="1426659054600" expanded="false" signature="1111:1137" placeholder="..." />
+            <marker date="1426659054600" expanded="false" signature="1168:1219" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="36" selection-start="145" selection-end="145" vertical-scroll-proportion="0.29310346">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

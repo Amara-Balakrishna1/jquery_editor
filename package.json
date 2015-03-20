@@ -1,0 +1,6 @@
+{ "name" : "mappingeditor"
+, "version" : "1.0"
+, "description" : "A packaged foo fooer for fooing foos"
+, "main" : "scroll.js"
+
+}

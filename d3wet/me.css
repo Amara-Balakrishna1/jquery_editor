@@ -1,0 +1,162 @@
+
+body {
+    background-color: #9ecae1 !important;
+
+    color: white;
+}
+
+/*.ui-dialog{*/
+    /*display: none !important;*/
+/*}*/
+div.flowPopUp {
+    border-radius: 5px;
+    background-color: #F8F8F8;
+    box-shadow: 2px 2px 2px #bbb;
+    border: 1px solid #eee;
+    color: #333333;
+    position: absolute;
+    min-width: 150px;
+    padding: 5px 10px;
+    min-height: 50px;
+    z-index: 999999999;
+}
+/*.ui-dialog-titlebar-close {*/
+    /*visibility: hidden !important;*/
+/*}*/
+.mybtn {
+    background-color: #245580;
+    color: #fff;
+    vertical-align: top;
+}
+
+/*.ui-dialog .ui-dialog-buttonpane {*/
+    /*padding: 0px !important;*/
+/*}*/
+
+a, a.list-group-item:hover, a.list-group-item:focus {
+    background-color: #9ecae1 !important;
+}
+
+.list-group-item {
+    padding: 5px !important;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.node rect {
+    cursor: pointer;
+    stroke-width: 0px !important;
+    /*fill: black !important;*/
+    stroke: gray;
+}
+
+.node :hover {
+    cursor: pointer;
+    fill: #9ecae1 !important;
+    opacity: 0.2;
+}
+
+.node text {
+    font-family: 'lato' !important;
+    font-weight: 200;
+    pointer-events: none;
+    /*stroke: #ffffff !important;*/
+}
+
+.svgclass {
+    -moz-user-select: -moz-none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    width: 100%;
+
+    -ms-user-select: none;
+    user-select: none;
+    background-color: #ffffff !important;
+
+}
+
+.search-filter {
+    padding-top: 30px;
+    display: inline-block;
+
+}
+
+path.link {
+    fill: none;
+    stroke: #9ecae1;
+    stroke-width: 1.5px;
+}
+
+.overlay {
+    fill: none;
+    pointer-events: all;
+}
+
+.bs-example {
+    background-color: #9ecae1;
+    margin: 20px;
+}
+
+/*.input-class{*/
+/*left: 232px;*/
+/*right: 0px;*/
+/*}*/
+#myImage2 {
+    height: 25px;
+    padding-left: 20px;
+}
+
+/*#selValue { width: 100%; height: 25px; line-height: 5px; }*/
+/*#infomodel { width: 100%; height: 25px; line-height: 5px; }*/
+
+#selValue {
+    width: 140px;
+    height: 25px;
+    line-height: 5px;
+}
+
+#infomodel {
+    width: 140px;
+    height: 25px;
+    line-height: 5px;
+}
+
+.toolbar {
+    width: 95%;
+   padding-left: 25%;
+}
+@media(max-width : 760px)  {
+    #infomodel,#selValue{
+           width: 60px;
+        font-size:8px;
+       }
+    .toolbar{
+        padding-left: 35%;
+    }
+}
+
+.modal-header{
+    background-color:#245580 ;
+}
+
+.ui-dialog .ui-dialog-content{
+    padding: 0px !important;
+}
+
+::-webkit-scrollbar {
+    max-width: 8px;
+    max-height: 8px;
+    background: #eeeeee;
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,0.3);
+    border-radius: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
